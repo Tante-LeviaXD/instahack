@@ -15,6 +15,6 @@ Jalankan perintah berikut di terminal:
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/KelvinTXCybers/encode_lambda-ya-
-cd encode_lambda-ya-
-python dcd_vinxcode.py
+git clone https://github.com/Tante-LeviaXD/instahack
+cd instahack
+python instahack_.py
