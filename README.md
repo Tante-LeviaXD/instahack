@@ -15,6 +15,12 @@ Jalankan perintah berikut di terminal:
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
+pkg install python
+pip install requests
+pip install bs4
+pip install stdiomask
+pip install pytz
+pip install rich
 git clone https://github.com/Tante-LeviaXD/instahack
 cd instahack
 python instahack_.py
