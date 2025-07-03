@@ -21,6 +21,6 @@ pip install bs4
 pip install stdiomask
 pip install pytz
 pip install rich
-git clone https://github.com/Tante-LeviaXD/instahack
+git clone https://github.com/VinXD-SLEBEW/instahack
 cd instahack
 python instahack_.py
